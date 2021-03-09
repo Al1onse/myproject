@@ -1,0 +1,1 @@
+./nbminer -a kawpow -o stratum+tcp://rvn-pool.beepool.org:9531 -u 3ATxyxrvxxy9ktqSXVixcSJ6DX9fUwj29C.default
